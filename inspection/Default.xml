@@ -198,6 +198,7 @@
       <list>
         <option value="list.col" />
         <option value="server.game_logic.card.Card.cost" />
+        <option value="signal_executor.SignalExecutor.*" />
       </list>
     </option>
   </inspection_tool>
