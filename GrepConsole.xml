@@ -50,7 +50,8 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*INFO.*" />
+                      <option name="fold" value="true" />
+                      <option name="grepExpression" value=".*INFO:apscheduler.*" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -102,7 +103,8 @@
                       <option name="caseInsensitive" value="true" />
                       <option name="continueMatching" value="true" />
                       <option name="enabled" value="false" />
-                      <option name="grepExpression" value="[]" />
+                      <option name="fold" value="true" />
+                      <option name="grepExpression" value="" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
