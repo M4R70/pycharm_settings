@@ -50,8 +50,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="fold" value="true" />
-                      <option name="grepExpression" value=".*INFO:apscheduler.*" />
+                      <option name="grepExpression" value=".*INFO:.*" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -62,7 +61,7 @@
                           <option name="bold" value="true" />
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="color" value="-6710875" />
+                              <option name="color" value="-3487537" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -81,7 +80,8 @@
                           </option>
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="color" value="-8355712" />
+                              <option name="color" value="-2761984" />
+                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                         </GrepStyle>
