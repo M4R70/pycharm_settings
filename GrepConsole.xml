@@ -69,7 +69,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="fold" value="true" />
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="style">
                         <GrepStyle>
@@ -80,7 +79,7 @@
                           </option>
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="color" value="-2761984" />
+                              <option name="color" value="-2370910" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
