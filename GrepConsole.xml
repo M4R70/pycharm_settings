@@ -99,11 +99,10 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="caseInsensitive" value="true" />
                       <option name="continueMatching" value="true" />
                       <option name="enabled" value="false" />
                       <option name="fold" value="true" />
-                      <option name="grepExpression" value="" />
+                      <option name="grepExpression" value=".*get_positions.*" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
