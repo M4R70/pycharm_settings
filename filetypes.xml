@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="asd2" type="PLAIN_TEXT" />
       <mapping pattern="BTCUSDT - 19-03-21 - 15 12 58" type="PLAIN_TEXT" />
+      <mapping pattern="hola" type="PLAIN_TEXT" />
       <mapping pattern="stop_bot" type="PLAIN_TEXT" />
       <mapping pattern="google.py" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
