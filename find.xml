@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '...\signal_executor.py'" />
-    <option name="defaultScopeName" value="File '...\signal_executor.py'" />
+    <option name="customScope" value="File '...\components\utils\log_utils.py'" />
+    <option name="defaultScopeName" value="File '...\components\utils\log_utils.py'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\signal_executor.py'" />
+    <option name="SEARCH_SCOPE" value="File '...\components\utils\log_utils.py'" />
   </component>
 </application>
