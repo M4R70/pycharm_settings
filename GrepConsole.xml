@@ -5,6 +5,8 @@
         <Profile>
           <option name="defaultProfile" value="true" />
           <option name="enableFoldings" value="true" />
+          <option name="enableMaxLengthGrepLimit" value="false" />
+          <option name="enableMaxLengthLimit" value="false" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
@@ -50,36 +52,16 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="grepExpression" value=".*INFO:.*" />
-                      <option name="style">
-                        <GrepStyle>
-                          <option name="backgroundColor">
-                            <GrepColor>
-                              <option name="color" value="-9569544" />
-                            </GrepColor>
-                          </option>
-                          <option name="bold" value="true" />
-                          <option name="foregroundColor">
-                            <GrepColor>
-                              <option name="color" value="-3487537" />
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
-                        </GrepStyle>
-                      </option>
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*INFO.*" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="style">
                         <GrepStyle>
-                          <option name="backgroundColor">
-                            <GrepColor>
-                              <option name="color" value="-14617105" />
-                            </GrepColor>
-                          </option>
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="color" value="-2370910" />
+                              <option name="color" value="-8355712" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -92,23 +74,6 @@
                         <GrepStyle>
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
-                        </GrepStyle>
-                      </option>
-                    </GrepExpressionItem>
-                    <GrepExpressionItem>
-                      <option name="continueMatching" value="true" />
-                      <option name="enabled" value="false" />
-                      <option name="fold" value="true" />
-                      <option name="grepExpression" value=".*get_positions.*" />
-                      <option name="operationOnMatch" value="CONTINUE_MATCHING" />
-                      <option name="style">
-                        <GrepStyle>
-                          <option name="backgroundColor">
-                            <GrepColor>
-                              <option name="color" value="-16742007" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -143,6 +108,7 @@
               </GrepExpressionGroup>
             </list>
           </option>
+          <option name="maxProcessingTime" value="3000" />
           <option name="name" value="default" />
         </Profile>
       </list>
