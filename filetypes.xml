@@ -9,6 +9,8 @@
       <mapping pattern="stop_bot" type="PLAIN_TEXT" />
       <mapping pattern="hola" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern="todo" type="PLAIN_TEXT" />
+      <mapping pattern="plans" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
