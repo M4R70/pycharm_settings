@@ -16,6 +16,7 @@
     <option name="CHECK_DUPLICATE_KEYS" value="true" />
     <option name="CHECK_DUPLICATE_KEYS_WITH_DIFFERENT_VALUES" value="true" />
   </inspection_tool>
+  <inspection_tool class="DuplicatedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="EditorConfigCharClassLetterRedundancy" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="EditorConfigCharClassRedundancy" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="EditorConfigDeprecatedDescriptor" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -75,6 +76,7 @@
   <inspection_tool class="IncompleteProperty" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="InconsistentLineSeparators" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="InjectedReferences" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="InstalledPackageInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="Json5StandardCompliance" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="JsonDuplicatePropertyKeys" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="JsonSchemaCompliance" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -175,6 +177,7 @@
         <option value="N803" />
         <option value="N806" />
         <option value="N801" />
+        <option value="N802" />
       </list>
     </option>
   </inspection_tool>
@@ -222,6 +225,7 @@
     <option name="ignoreVariablesStartingWithUnderscore" value="true" />
   </inspection_tool>
   <inspection_tool class="RedundantSuppression" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ReferenceExistsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="RegExpAnonymousGroup" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="RegExpDuplicateAlternationBranch" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="RegExpEmptyAlternationBranch" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -252,6 +256,7 @@
   <inspection_tool class="TrailingSpacesInProperty" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnresolvedReference" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="UnusedDefine" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="UnusedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UnusedProperty" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="WrongPropertyKeyValueDelimiter" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="XmlDefaultAttributeValue" enabled="true" level="WARNING" enabled_by_default="true" />
